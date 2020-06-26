@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jun 26 10:57:53 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-efd8-f66a-00000ce23200 
+on database directory /home/abi/Documents/CIN/pruefung/CarApp/db_car with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/home/abi/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.6+10
+user.dir=/home/abi/Documents/CIN/pruefung/CarApp
+os.name=Linux
+os.arch=amd64
+os.version=5.6.12-300.fc32.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
